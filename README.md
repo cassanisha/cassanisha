@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cassanisha" alt="cassanisha" /></a> </p>
 
-- 🌱 I’m currently learning **Springboot and React**
-
 - 📝 I regularly write articles on [https://hashnode.com/@anisaaa03](https://hashnode.com/@anisaaa03)
 
 - 📫 How to reach me **anishadhillon08@gmail.com**
