@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anisha Dhillon</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">A Backend developer from India</h3>
 
 - 📝 I write articles on [https://hashnode.com/@anisaaa03](https://hashnode.com/@anisaaa03)
 
